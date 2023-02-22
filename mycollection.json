@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "63f5d3f83e251c4777168cda"
+  },
+  "name": "Alice",
+  "age": 25
+},{
+  "_id": {
+    "$oid": "63f5d4263e251c4777168cdb"
+  },
+  "name": "Bob",
+  "age": 30
+},{
+  "_id": {
+    "$oid": "63f5d4343e251c4777168cdc"
+  },
+  "name": "Charlie",
+  "age": 40
+}]
